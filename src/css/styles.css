@@ -18,3 +18,8 @@ body {
   max-width: 320px;
   margin-bottom: 16px;
 }
+.counry-item__flag{
+  
+  height: 40px;
+  width: 60px;
+}
